@@ -189,7 +189,7 @@ header .image {
     flex: auto;
     min-width: 100%;
     background: #FDF8F5;
-    margin-left: 15px;
+    padding-left: 15px;
     margin-right: 15px;
 }
 
